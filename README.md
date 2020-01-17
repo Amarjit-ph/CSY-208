@@ -1,7 +1,11 @@
 # Java-Lab
 ## CHANDIGARH UNIVERSITY
 
-## Practical Experiment 
+<b>AMARJIT PHEIROIJAM </b><br />
+BE CSE <br />
+NTPPIS 12 <br />
+
+## Practical Experiments
 1. ADD TWO NUMBER
 2. ADD TWO NUMBER USING OBJECT
 3. ADD TWO NUMBER INPUT FROM USER
