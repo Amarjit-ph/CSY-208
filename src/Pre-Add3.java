@@ -1,5 +1,5 @@
 /*
- PROGRAM 3
+ PRE-PROGRAM 3
  ADD TWO NUMBER INPUT FROM USER
 */
 import java.util.*;
