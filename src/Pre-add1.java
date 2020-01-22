@@ -1,5 +1,5 @@
 /*
- PROGRAM 1
+ PRE-PROGRAM 1
  ADD TWO NUMBER
 */
 public class add1 {
