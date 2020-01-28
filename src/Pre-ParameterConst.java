@@ -3,14 +3,16 @@ class ConstExample{
 	int Roll;
 	String Name;
 	
+	//NON-PARAMETERIZE CONSTRUCTOR
 	ConstExample(){
 		Roll = 2132;
 		Name = "SANJIB_REGMI";
 		System.out.println("\nNON-PARAMETERIZE CONSTRUCTOR ");
-		System.out.println("Roll .No :"+Roll);
-		System.out.println("Name : "+Name);
+		System.out.println("Roll .No :"+ Roll);
+		System.out.println("Name : "+ Name);
 	}
 	
+	//NON-PARAMETERIZE CONSTRUCTOR
 	ConstExample(int Roll,String Name){
 		System.out.println("\nPARAMETERIZE CONSTRUCTOR ");
 		System.out.println("Roll .No :"+Roll);
