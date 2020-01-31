@@ -1,4 +1,3 @@
-
 public class Employe {
 	public
 	int Empid;
@@ -18,9 +17,8 @@ public class Employe {
 			EmployeS[i] = new Employe();
 		}
 		
-		
 		EmployeS[0].name ="AMARJIT PHEIROIJAM";
-		EmployeS[0].Empid = 1;
+		EmployeS[0].Empid = 2;
 		EmployeS[0].Salary=66000;
 		
 		EmployeS[1].name ="LEONARD CHONGTHAM";
@@ -37,8 +35,6 @@ public class Employe {
 			EmployeS[i].show();
 			System.out.println("\n");
 		}
-		
-		
 				
 	}
 
