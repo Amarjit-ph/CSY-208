@@ -2,6 +2,7 @@
 ## CHANDIGARH UNIVERSITY
 
 <b>AMARJIT PHEIROIJAM </b><br />
+17BCS2198 <br/>
 BE CSE <br />
 NTPPIS 12 <br />
 
