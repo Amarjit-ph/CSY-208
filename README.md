@@ -6,14 +6,14 @@ BE CSE <br />
 NTPPIS 12 <br />
 
 ## Pre-Practical Experiments
-1. ADD TWO NUMBER
-2. ADD TWO NUMBER USING OBJECT
-3. ADD TWO NUMBER INPUT FROM USER
-4. CHECK EVEN OR ODD NUMBER INPUT FROM USER
-6. ARRAY SUM
-7. PARAMETERIZE AND NON PARAMETERIZE CONSTRUCTER
-8. CALCULATE VOLUME OF A BOX
-9. CALCULATE VOLUME OF A BOX FROM USER INPUT
+1. Add two number
+2. Add two number using object
+3. Add two number from user input
+4. Check Even or odd number
+5. Array sum
+6. Parameterize and non parameterize constructor
+7. Calculate volume of a box
+8. Calculate volume of a box from user input
 
 ## Practical Experiments
 1. Create an application to save the employee information using arrays
