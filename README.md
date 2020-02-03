@@ -16,4 +16,4 @@ NTPPIS 12 <br />
 9. CALCULATE VOLUME OF A BOX FROM USER INPUT
 
 ## Practical Experiments
-1. EMPLOYEES MANAGEMENT
+1. Create an application to save the employee information using arrays
