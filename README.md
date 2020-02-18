@@ -19,3 +19,5 @@ NTPPIS 12 <br />
 
 ## Practical Experiments
 1. Create an application to save the employee information using arrays
+2. Design and implement a simple inventory control system for a small video rental store
+3. Create an application to calculate interest for FD’s , RD’s based on certain conditions using inheritance
