@@ -21,3 +21,4 @@ NTPPIS 12 <br />
 1. Create an application to save the employee information using arrays
 2. Design and implement a simple inventory control system for a small video rental store
 3. Create an application to calculate interest for FD’s , RD’s based on certain conditions using inheritance
+4. Create an ArrayList and use its various methods 
