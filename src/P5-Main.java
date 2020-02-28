@@ -30,3 +30,38 @@ class P5
 
     } 
 } 
+
+
+
+// Java program to demonstrate working of HashSet 
+import java.util.*; 
+  
+class P5 
+{ 
+    public static void main(String[]args) 
+    { 
+        
+    	HashSet<Integer> hash = new HashSet<Integer>();
+    	hash.add(1);
+    	hash.add(2);
+    	hash.add(3);
+    	hash.add(4);
+    	hash.add(1);  // ADDING DUPLICATE ELEMENT BUT NOT ADDED
+    	
+    	System.out.println(hash);
+    	
+    	 System.out.println("\nList contains 3 or not: " + 
+                 hash.contains(3)); 
+    	 
+    	// Removing items from HashSet using remove() 
+         hash.remove(4); 
+         System.out.println("\nList after removing 4 : "+hash); 
+         
+         // Iterating over hash set items 
+         System.out.println("\nIterating over list:"); 
+         Iterator<Integer> i = hash.iterator(); 
+         while (i.hasNext()) 
+             System.out.println(i.next()); 
+
+    } 
+} 
