@@ -7,6 +7,10 @@
 BE CSE <br />
 NTPPIS 12 <br />
 
+## THEROY :
+1. [Collections]()
+2. [Multithreading]()
+
 ## Pre-Practical Experiments
 1. Add two number
 2. Add two number using object
