@@ -8,8 +8,8 @@ BE CSE <br />
 NTPPIS 12 <br />
 
 ## THEROY :
-1. [Collections]()
-2. [Multithreading]()
+1. [Collections](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md)
+2. [Multithreading](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Multithreading/Readme.md)
 
 ## Pre-Practical Experiments
 1. Add two number
