@@ -22,8 +22,8 @@ NTPPIS 12 <br />
 8. Calculate volume of a box from user input
 
 ## Practical Experiments
-1. Create an application to save the employee information using arrays
-2. Design and implement a simple inventory control system for a small video rental store
-3. Create an application to calculate interest for FD’s , RD’s based on certain conditions using inheritance
-4. Create an ArrayList and use its various methods 
-5. Program to demonstrate working of HashSet
+1. [Create an application to save the employee information using arrays](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P1-Main.java)
+2. [Design and implement a simple inventory control system for a small video rental store](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P2-Main.java)
+3. [Create an application to calculate interest for FD’s , RD’s based on certain conditions using inheritance](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P3-Main.java)
+4. [Create an ArrayList and use its various methods](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P4-Main.java)
+5. [Program to demonstrate working of HashSet](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P1-Main.java)
