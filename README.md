@@ -8,7 +8,7 @@ BE CSE <br />
 NTPPIS 12 <br />
 
 ## Theories :
-1. [Collections](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md)
+1. [Collections - ArrayList -HashMap](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md)
 2. [Multithreading](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Multithreading/Readme.md)
 
 ## Pre-Practical Experiments
@@ -28,3 +28,4 @@ NTPPIS 12 <br />
 3. [Create an application to calculate interest for FD’s , RD’s based on certain conditions using inheritance](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P3-Main.java)
 4. [Create an ArrayList and use its various methods](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P4-Main.java)
 5. [Program to demonstrate working of HashSet](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P5-Main.java)
+6. [Program to demonstarte working of Hashmap](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Practicals/P6-Main.java)
