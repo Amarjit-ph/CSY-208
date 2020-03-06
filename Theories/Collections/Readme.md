@@ -37,3 +37,17 @@ DECLARE:   `HashSet<String> hash = new HashSet<String>();`
 | REMOVE_ALL | Remove all the elements from the list.                       | Object.removeAll()                     |
 | CONTAINS   | Returns true if the list contains the specified element      | Object.contains(Element)               |
 
+# MAP
+<img src="https://static.javatpoint.com/images/hashmap.png">
+
+
+# HASHMAP
+HashMap is a part of Java’s collection since Java 1.2. It provides the basic implementation of the Map interface of Java. It stores the data in (Key, Value) pairs. To access a value one must know its key. HashMap is known as HashMap because it uses a technique called Hashing. Hashing is a technique of converting a large String to small String that represents the same String. A shorter value helps in indexing and faster searches. HashSet also uses HashMap internally. It internally uses a link list to store key-value pairs already explained in HashSet in detail and further articles.
+Few important features of HashMap are:
+
+* HashMap is a part of java.util package.
+* HashMap extends an abstract class AbstractMap which also provides an incomplete implementation of Map interface.
+* It also implements Cloneable and Serializable interface. K and V in the above definition represent Key and Value respectively.
+* HashMap doesn’t allow duplicate keys but allows duplicate values. That means A single key can’t contain more than 1 value but more than 1 key can contain a single value.
+* HashMap allows null key also but only once and multiple null values.
+* This class makes no guarantees as to the order of the map; in particular, it does not guarantee that the order will remain constant over time. It is roughly similar to HashTable but is unsynchronized.
