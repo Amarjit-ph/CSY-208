@@ -8,7 +8,7 @@ BE CSE <br />
 NTPPIS 12 <br />
 
 ## Theories :
-1. [Collections - ArrayList -HashMap](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md)
+1. [Collections - ArrayList -HashMap](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md) [(HashMap-Javapoint-Link)](https://www.javatpoint.com/java-hashmap)
 2. [Multithreading](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Multithreading/Readme.md)
 
 ## Pre-Practical Experiments
