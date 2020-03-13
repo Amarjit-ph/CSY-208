@@ -12,11 +12,11 @@ Java Collection framework provides many interfaces (Set, List, Queue, Deque)
 and classes (Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet).
 
 
-| List       | Queue          | Set                        |
-| ---------- | -------------- | -------------------------- |
-| ArrayList  | Priority Queue | HashSet [No Duplicate]     |
-| LinkedList | Deque          | LinkedHashSet [Over Write] |
-| Vector     |                | TreeSet [Sorted]           |
+| List       | Queue          | Set                        |map          |
+| ---------- | -------------- | -------------------------- |-------------|
+| ArrayList  | Priority Queue | HashSet [No Duplicate]     |Hashmap      |
+| LinkedList | Deque          | LinkedHashSet [Over Write] |Treemap      |
+| Vector     |                | TreeSet [Sorted]           |LinkedHashmap|
 
 
 
