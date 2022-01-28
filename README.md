@@ -1,11 +1,10 @@
-# Java-Lab
-### BACHELOR FOR TECHNOLOGY COMPUTER SCIENCE AND ENGINEERING
-## CHANDIGARH UNIVERSITY
+## CSY-208 Java Programming Lab
 
-<b>AMARJIT PHEIROIJAM </b><br />
-17BCS2198 <br/>
-BE CSE <br />
-NTPPIS 12 <br />
+Bachelor of Engineering<br/>
+Computer Science & Engineering<br/>
+<b>CHANDIGARH UNIVERSITY</b>
+
+SEMESTER 3
 
 ## Theories :
 1. [Collections - ArrayList -HashMap](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md) [(HashMap-Javapoint-Link)](https://www.javatpoint.com/java-hashmap)
