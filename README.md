@@ -7,7 +7,7 @@ Computer Science & Engineering<br/>
 SEMESTER 3
 
 ## Theories :
-1. [Collections - ArrayList -HashMap](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md) [(HashMap-Javapoint-Link)](https://www.javatpoint.com/java-hashmap)
+1. [Collections](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md)
 2. [Multithreading](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Multithreading/Readme.md)
 
 ## Pre-Practical Experiments
