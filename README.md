@@ -6,7 +6,7 @@ Computer Science & Engineering<br/>
 
 SEMESTER 3
 
-## Theories :
+## Theories
 1. [Collections](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Collections/Readme.md)
 2. [Multithreading](https://github.com/Amarjit-pheiroijam/java-Lab/blob/master/Theories/Multithreading/Readme.md)
 
